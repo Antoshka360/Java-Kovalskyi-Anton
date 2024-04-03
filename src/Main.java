@@ -3,6 +3,10 @@
  * Виконав студент групи СІ-22 Ковальський Антон Юрійович
  */
 public class Main {
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         double[] array = {0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9};
 
